@@ -1,0 +1,125 @@
+[
+    {
+        "entityCode": "GEMDBK610",
+        "counterPartyGrid": "123456",
+        "valueDate": "2021-07-01",
+        "runningTotalUsd": 500000.0,
+        "version": 0,
+        "settlements": [
+            {
+                "version": 0,
+                "dbPk": 1,
+                "ourEntityBerId": 7,
+                "status": "TVPC PENDING ACK",
+                "entityCode": "GBMDBK610",
+                "entityName": "HSBC HSBC BANK PLC LONDON",
+                "entitySettlementMethod": "SWIFT STD",
+                "entityBerSsiid": "value",
+                "entityBerSsiVersion": "value",
+                "counterPartyGRID": "123456",
+                "counterPartyBerId": "value",
+                "counterPartyName": "value",
+                "ackBy": "value",
+                "approvedBy": "value"
+            },
+            {
+                "version": 0,
+                "dbPk": 2,
+                "ourEntityBerId": 7,
+                "entityCode": "GBMDBK610",
+                "status": "TVPC PENDING ACK",
+                "entityName": "HSBC, HSBC BANK PLC LONDON",
+                "entitySettlementMethod": "SWIFT _STD",
+                "entityBerSsiid": "value",
+                "entityBerSsiVersion": "value",
+                "counterPartyGRID": "123456",
+                "counterPartyBerld": "value",
+                "counterPartyName": "value",
+                "ackBy": "value",
+                "approvedBy": "value"
+            }
+        ]
+    },
+    {
+        "entityCode": "GEMDBK611",
+        "counterPartyGrid": "123456",
+        "valueDate": "2021-07-01",
+        "runningTotalUsd": 500000.0,
+        "version": 0,
+        "settlements": [
+            {
+                "version": 0,
+                "dbPk": 1,
+                "ourEntityBerId": 7,
+                "status": "TVPC PENDING ACK",
+                "entityCode": "GBMDBK611",
+                "entityName": "HSBC HSBC BANK PLC LONDON",
+                "entitySettlementMethod": "SWIFT STD",
+                "entityBerSsiid": "value",
+                "entityBerSsiVersion": "value",
+                "counterPartyGRID": "123456",
+                "counterPartyBerId": "value",
+                "counterPartyName": "value",
+                "ackBy": "value",
+                "approvedBy": "value"
+            },
+            {
+                "version": 0,
+                "dbPk": 2,
+                "ourEntityBerId": 7,
+                "entityCode": "GBMDBK611",
+                "status": "TVPC PENDING ACK",
+                "entityName": "HSBC, HSBC BANK PLC LONDON",
+                "entitySettlementMethod": "SWIFT _STD",
+                "entityBerSsiid": "value",
+                "entityBerSsiVersion": "value",
+                "counterPartyGRID": "123456",
+                "counterPartyBerld": "value",
+                "counterPartyName": "value",
+                "ackBy": "value",
+                "approvedBy": "value"
+            }
+        ]
+    },
+    {
+        "entityCode": "GEMDBK612",
+        "counterPartyGrid": "123456",
+        "valueDate": "2021-07-01",
+        "runningTotalUsd": 500000.0,
+        "version": 0,
+        "settlements": [
+            {
+                "version": 0,
+                "dbPk": 1,
+                "ourEntityBerId": 7,
+                "status": "TVPC PENDING ACK",
+                "entityCode": "GBMDBK612",
+                "entityName": "HSBC HSBC BANK PLC LONDON",
+                "entitySettlementMethod": "SWIFT STD",
+                "entityBerSsiid": "value",
+                "entityBerSsiVersion": "value",
+                "counterPartyGRID": "123456",
+                "counterPartyBerId": "value",
+                "counterPartyName": "value",
+                "ackBy": "value",
+                "approvedBy": "value"
+            },
+            {
+                "version": 0,
+                "dbPk": 2,
+                "ourEntityBerId": 7,
+                "entityCode": "GBMDBK612",
+                "status": "TVPC PENDING ACK",
+                "entityName": "HSBC, HSBC BANK PLC LONDON",
+                "entitySettlementMethod": "SWIFT _STD",
+                "entityBerSsiid": "value",
+                "entityBerSsiVersion": "value",
+                "counterPartyGRID": "123456",
+                "counterPartyBerld": "value",
+                "counterPartyName": "value",
+                "ackBy": "value",
+                "approvedBy": "value"
+            }
+        ]
+    }
+]
